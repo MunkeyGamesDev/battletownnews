@@ -1,11 +1,11 @@
 {
-  "version": 3,
+  "version": 4,
   "posts": [
     {
       "id": "welcome",
       "title": "Welcome to BattleTown!",
       "date": "2026-03-05",
-      "body": "Welcome to the first build of BattleTown. Expect bugs, chaos, and Moobles.",
+      "body": "Welcome to the first beta of BattleTown. Expect bugs, chaos, and Moobles!",
       "pinned": true
     },
     {
